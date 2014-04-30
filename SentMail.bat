@@ -1,3 +1,3 @@
-start PostOffice.exe 1 2 
+start PostOffice.exe GO "BrandShareDeploy SuccessFully"
 
 pause
