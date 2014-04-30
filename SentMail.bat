@@ -1,3 +1,5 @@
-start PostOffice.exe GO "BrandShareDeploy SuccessFully"
+set Message=%1
+echo Message
+start PostOffice.exe GO Message
 
 pause
